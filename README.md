@@ -4,14 +4,14 @@
 ![icon-static](https://github.com/user-attachments/assets/d2b02f5a-298c-45fd-8154-2331f1f21c0f)
 
 ## What is this?
-- This is an up-to-date build of Lone DMA EFT/Arena Radar. This is a standalone copy of the software with *No Restrictions*.
+- This is an up-to-date build of Lone DMA EFT Arena Radar. This is a standalone copy of the software with *No Restrictions*.
 
 ## How do I start using this?
 1. Download & extract the solution
 2. Open solution with visual studio
-3. Publish the `eft-dma-radar` or `arena-dma-radar` project
+3. Publish the `arena-dma-radar` project
 4. If required, locate & move the `libSkiaSharp.dll` & `libHarfBuzzSharp.dll` from the `publish/runtimes` folder into `publish` folder
-5. Run `eft-dma-radar.exe` or `arena-dma-radar.exe` depending on what you've published
+5. Run `arena-dma-radar.exe` depending on what you've published
 
 ## Arena
 - Arena is supported and will be maintained going forward.
