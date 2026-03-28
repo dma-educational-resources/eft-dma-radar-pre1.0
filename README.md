@@ -1,7 +1,6 @@
+# As of 28/03/2026 this is not longer maintained, you will need to update offsets yourself
 
 # Lone's EFT DMA Radar
-
-![icon-static](https://github.com/user-attachments/assets/d2b02f5a-298c-45fd-8154-2331f1f21c0f)
 
 ## What is this?
 - This is an up-to-date build of Lone DMA EFT Arena Radar. This is a standalone copy of the software with *No Restrictions*.
